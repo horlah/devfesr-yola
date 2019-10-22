@@ -1,0 +1,32 @@
+{
+    "name": "puppeteer-slide",
+    "version": "1.0.0",
+    "description": "Puppeteer for my slides ",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/horlah/puppeteer-devfest-yola.git"
+    },
+    "keywords": [
+        "puppeteer",
+        "node",
+        "js",
+        "ssr",
+        "headerless",
+        "chrome"
+    ],
+    "author": "Emmanuel Aina",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/horlah/puppeteer-devfest-yola/issues"
+    },
+    "homepage": "https://github.com/horlah/puppeteer-devfest-yola#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "puppeteer": "^1.20.0"
+    }
+}
